@@ -1,0 +1,68 @@
+
+
+.searchbar{
+    background-color: #EEEEEE;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+.navbar{
+    float: left;
+    margin-top: 2px;
+    text-align: center;
+}
+a{
+    color:#0000EE;
+
+}
+input[type="text"] {
+    width: 309px;
+    height: 15px;
+}
+input[type="email"]{
+    height: 20px;
+    box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bg-lighttest {
+    background-color: #7EE5DA;
+    width: 33.3%;
+    height: 76px;
+    vertical-align: inherit;
+}
+.bg-light {
+    background-color:#70CCC2 ;
+    width: 33.3%;
+    
+    height: 76px;
+    font-size: 13px;
+}
+.bg-dark{
+    background: #62B3AA;
+    width: 33.3%;
+    height: 76px;
+}
+center{
+    display: block;
+    text-align: -webkit-center;
+    margin-top: 3px;
+}
+#navbar1 {
+    margin-top: 10px;
+}
+.copy-1998 {
+    display: block;
+    width: 300px;
+    height: 20px;
+    background-color: #531c91;
+    padding: 0px;
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 5px;
+}
